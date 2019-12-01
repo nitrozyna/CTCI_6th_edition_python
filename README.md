@@ -1,2 +1,3 @@
-# CTCI_6th_edition_python
-Solutions to "Cracking the Coding Interview" in Python
+# Python solutions to [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell
+
+
