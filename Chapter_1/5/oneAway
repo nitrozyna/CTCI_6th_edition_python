@@ -1,0 +1,21 @@
+def oneAway(word_1,word_2):
+    if len(word_1) == len(word_2):
+       # check if they are only one edit apart
+        edited = False
+        for c1,c2 in zip(word_1,word_2):
+            if c1 != c2:
+                if edited:
+                    return False
+                edited = True
+        return True
+
+    elif len(word_1) - len(word_2) == 1:
+        # check if they are only one insertion apart
+        for c1,c2 in zip(word_1,word_2):
+            if
+
+
+
+
+
+#(oneAway('Tusia','Tolus'))

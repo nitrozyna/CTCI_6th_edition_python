@@ -18,4 +18,4 @@ def palindromePermutation(string):
     return True
 
 
-print(palindromePermutation("dfcfwdc"))
+#print(palindromePermutation("dfcfwdc"))
