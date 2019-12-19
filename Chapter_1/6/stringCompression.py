@@ -11,4 +11,4 @@ def stringCompression(string):
     compressed.append(string[-1] + str(counter))
     return min(string, ''.join(compressed), key=len)
 
-print(stringCompression('fwwffdwff'))
+#print(stringCompression('fwwffdwff'))
